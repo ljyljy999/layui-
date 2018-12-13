@@ -1,2 +1,1 @@
-# layui-
-UI模板
+# layui-UI模板
